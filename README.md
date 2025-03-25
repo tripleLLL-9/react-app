@@ -11,6 +11,6 @@ Vulnerability Discovery Platform
 
 2.安装依赖：在项目根目录下，运行npm install命令，它会根据package.json文件中的依赖列表安装所有需要的包。
 
-3.启动项目：安装完成后，执行npm start命令，这会启动开发服务器。之后，浏览器会自动打开（若未自动打开，可访问http://localhost:3000），显示 React 应用。
+3.启动项目：安装完成后，执行npm start命令，这会启动开发服务器。之后，浏览器会自动打开（若未自动打开，可访问http://localhost:3000），可显示 React 应用。
 
 tips：若项目使用了yarn包管理器，步骤 2 和 3 可分别替换为yarn install和yarn start。
